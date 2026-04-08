@@ -1,6 +1,6 @@
-# 🧪 BD2 – Laboratórios
+# BD2 – Laboratórios
 
-**Base de Dados 2** - **Laboratórios** realizados durante o ano lectivo **2025/2026** na turma **EIN6_M3** por  **Emanuel dos Santos**.
+**Base de Dados 2** - **Laboratórios** realizados por  **Emanuel dos Santos**.
 
 ## 📝 Laboratórios
 ### 🗂️ [Laboratório #00](./Laboratorio00/) – Criação do Banco de Dados
